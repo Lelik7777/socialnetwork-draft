@@ -1,0 +1,15 @@
+.nav{
+    grid-area: n;
+    background-color: gray;
+}
+.item a{
+    color: brown;
+    text-decoration: none;
+}
+.itemSet a{
+    color:darkred;
+    text-decoration: none;
+}
+.active{
+    color: gold ;
+}

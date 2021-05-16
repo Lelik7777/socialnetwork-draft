@@ -1,0 +1,18 @@
+.item{
+    color: aqua;
+
+}
+.active{
+color: gold;
+}
+.active img, .item img{
+    width: 50px;
+    height: 50px;
+}
+
+.item,.active{
+    padding: 10px 0 10px 30px;
+}
+.item span,.active span  {
+    margin-left: 15px;
+}

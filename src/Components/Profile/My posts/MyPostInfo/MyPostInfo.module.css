@@ -1,0 +1,7 @@
+.myPostInfo{
+    padding: 10px;
+    font-weight: bold;
+}
+.myPostInfo div:first-child{
+    padding-bottom: 20px;
+}
